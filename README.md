@@ -49,8 +49,3 @@ The main.* files get loaded last so we also create those files. You can always s
 
 ##### Packages
 I always load bootstrap, npm and d3. If any of these packages are server-side packages, you'll also see a `packages` folder pop up in your app directory. 
-
-
-
-
- 
