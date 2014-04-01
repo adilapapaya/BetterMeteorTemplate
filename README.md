@@ -28,7 +28,7 @@ mkfile b main.{css,js,html}
 ###### Finally, include the packages you want to use.
 (You may need to wait a few seconds after entering each of these.)
 ```bash
-meteor add bootstrap
+meteor add bootstrap-3
 meteor add npm
 meteor add d3
 ```
