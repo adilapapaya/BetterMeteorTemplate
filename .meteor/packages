@@ -6,6 +6,6 @@
 standard-app-packages
 autopublish
 insecure
-bootstrap
 d3
 npm
+bootstrap-3
