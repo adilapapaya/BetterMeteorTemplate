@@ -1,3 +1,15 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [The Setup](#user-content-the-setup)
+				- [Create the app](#user-content-create-the-app)
+				- [Optional: Remove all Meteor's templates.](#user-content-optional-remove-all-meteors-templates)
+				- [Now create the appropriate directories](#user-content-now-create-the-appropriate-directories)
+				- [Optional: Initialize the main.* files.](#user-content-optional-initialize-the-main-files)
+				- [Finally, include the packages you want to use.](#user-content-finally-include-the-packages-you-want-to-use)
+- [Why?](#user-content-why)
+				- [Directory Structure](#user-content-directory-structure)
+			- [Packages](#user-content-packages)
+
 A better starting template for Meteor.js
 
 ## The Setup
